@@ -1,5 +1,5 @@
 # Real-time-event-detection-and-the-notification-system
-# Face Recognition and Alerting System
+
 
 ## Objective
 **The major objectives of the project are as follows:**
